@@ -1,3 +1,2 @@
-# My Description of my first Odin Project
+# A simple HTML5 Site for Recipes
 
-I think It'll go a bit smoothly, at least I hope so. To be honest, I'm quite excited. :).
