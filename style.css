@@ -1,0 +1,46 @@
+body {
+    width: 150%;
+ background: linear-gradient(to top, #3399ff 41%, #99ccff 100%)
+}
+
+h1 {
+    background: linear-gradient(-225deg, #FF057C 0%, #8D0B93 50%, #321575 100%);
+    -webkit-background-clip: text;
+    color: transparent;
+    text-align: justify;
+    font-family: cursive;
+}
+
+
+a {
+    background: linear-gradient(109.6deg, rgb(245, 95, 152) 11.2%, rgb(254, 148, 136) 100.2%);
+    -webkit-background-clip: text;
+    color: transparent;
+    font-size: large;
+    text-align: justify;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    
+    /* Add text stroke */
+    -webkit-text-fill-color: transparent;
+    -webkit-text-stroke: 0.4px rgb(0, 0, 0); /* You can adjust the width and color of the stroke */
+
+    /* Remove underline */
+    text-decoration: none;
+    padding: 10px 20px;
+    display: inline-block;
+
+    text-align: center;
+    
+}
+
+
+
+a:hover {
+    font-size:large;
+    padding: 10px 20px;
+    border-radius: 10px;
+    background: linear-gradient(110.4deg, rgb(255, 196, 254) 9.6%, rgb(251, 229, 123) 91%);
+    color: #000000;
+    -webkit-text-fill-color: #000000;
+}
+
