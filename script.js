@@ -1,3 +1,4 @@
+// Author: Chi
 // filename: script.js
 
 document.addEventListener("DOMContentLoaded", function () {
